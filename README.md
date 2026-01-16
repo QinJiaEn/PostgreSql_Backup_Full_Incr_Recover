@@ -1,0 +1,2 @@
+# PostgreSql_Backup_Full_Incr_Recover
+在网上找很久没找到跟我需求相符的功能脚本,所以瞎写了一个全量备份以及增量备份还有恢复的脚本.
